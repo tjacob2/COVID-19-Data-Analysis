@@ -8,9 +8,9 @@
 - [Exploratory Data Analysis](#exploratory-data-analysis)
 - [Methodology](#methodology)
   - [Data Collection](#1-data-collection)
-  - [Data Cleaning](#data-cleaning)
-  - [Data Exploration](#data-exploration)
-  - [Visualization and Dashboard](#visualization-and-dashboard)
+  - [Data Cleaning](#2-data-cleaning)
+  - [Data Exploration](#3-data-exploration)
+  - [Visualization and Dashboard](#4-visualization-and-dashboard)
 - [Results](#results)
 
 
