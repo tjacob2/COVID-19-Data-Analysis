@@ -1,5 +1,19 @@
 # COVID-19-Data-Analysis
 
+
+## Table of Contents
+
+- [Project Overview](#project-overview)
+- [Tools](#tools)
+- [Exploratory Data Analysis](#exploratory-data-analysis)
+- [Methodology](#methodology)
+  - [Data Collection](#data-collection)
+  - [Data Cleaning](#data-cleaning)
+  - [Data Exploration](#data-exploration)
+  - [Visualization and Dashboard](#visualization-and-dashboard)
+- [Results](#results)
+
+
 ### Project Overview
 
 This data analysis projects aims to provide insight into the COVID-19 deaths for each country from the timeperiod,January 2020 to April 2021.
@@ -22,7 +36,6 @@ By analyzing the various aspects of the data, we are can identity the number of 
 
 
 ### Methodology
-
 
 #### 1. Data Collection
 
@@ -101,7 +114,7 @@ The dashboard below shows the results from the above questions that are answered
 ![Covid-19Dashboard](https://github.com/tjacob2/COVID-19-Data-Analysis/assets/165331511/223df23f-9748-4fe1-b73a-c45c9cb642c0)
 
 
-#### 5. Results
+### Results
 
  The analysis results are summarized as follows
  1. The total confirmed cases from 2020 to April 2021 was 150,574,977 and the number of deaths were 3,180,206 which was shows that 2.11% of people died from COVID-19.
