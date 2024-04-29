@@ -5,7 +5,7 @@
 
 - [Project Overview](#project-overview)
 - [Tools](#tools)
-- [Exploratory Data Analysis](#1-exploratory-data-analysis)
+- [Exploratory Data Analysis](#1.-exploratory-data-analysis)
 - [Methodology](#methodology)
   - [Data Collection](#data-collection)
   - [Data Cleaning](#data-cleaning)
