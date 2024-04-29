@@ -94,10 +94,11 @@ Group by Location, Population, date
 order by PercentPopulationInfected desc
 ```
 
-
 #### 4. Visualization and Dashboard
 
+The dashboard below shows the results from the above questions that are answered in the results section below
 
+![Covid-19Dashboard](https://github.com/tjacob2/COVID-19-Data-Analysis/assets/165331511/223df23f-9748-4fe1-b73a-c45c9cb642c0)
 
 
 #### 5. Results
