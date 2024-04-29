@@ -7,7 +7,7 @@
 - [Tools](#tools)
 - [Exploratory Data Analysis](#exploratory-data-analysis)
 - [Methodology](#methodology)
-  - [Data Collection](#1-.-data-collection)
+  - [Data Collection](#1-data-collection)
   - [Data Cleaning](#data-cleaning)
   - [Data Exploration](#data-exploration)
   - [Visualization and Dashboard](#visualization-and-dashboard)
