@@ -40,7 +40,7 @@ By analyzing the various aspects of the data, we are can identity the number of 
 
 #### 1. Data Collection
 
-Covid-19 Data: The primary dataset used for this analysis is "covid_deaths.csv", containing the number deaths and vaccinations for each country from 2020 to 2021
+Covid-19 Data: The primary dataset used for this analysis is "covid_deaths.xlsx", containing the number deaths and vaccinations for each country from 2020 to 2021
 
 
 #### 2. Data Cleaning
