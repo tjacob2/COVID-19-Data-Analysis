@@ -16,7 +16,8 @@
 
 ### Project Overview
 
-This data analysis projects aims to provide insight into the COVID-19 deaths for each country from the timeperiod,January 2020 to April 2021.
+COVID-19 is a highly infectous respiratory illness caused by the novel coronavirus. The first emerged from a laboratory in Wuhan, China, in December 2019 and has since rapidly spread worldwide. The symptoms of COVID-19 include fever, coughing, difficulty breathing, headaches, and fatigue. Therefore, it is best to socially distance,follow health guidlines, and most importantly taking care of ones self by drinking lots of fluids and plenty of rest.
+This data analysis projects aims to provide insight into the COVID-19 deaths for each country from the time period,January 2020 to April 2021.
 By analyzing the various aspects of the data, we are can identity the number of people infected during the given time perid to further understand the gravity and impact the pandemic had on the world.
 
 
@@ -122,4 +123,11 @@ The dashboard below shows the results from the above questions that are answered
  3. The percentage population infected on March 2021 was 8.93%, it is believed to increase throughout 2021 to 10-20%.
 
 
- 
+### Limitations
+
+I had to add all the data sets that were blank or N/A for the accuracy of my data as well as being ableto use SQL. There were a few countries such as Turkmenistan and Western Sahara that didn't have any data given so they wer removed.
+
+
+### References
+
+  #### 1. Website for dataset: [Coronavirus (COVID-19) Deaths](https://ourworldindata.org/covid-deaths)
