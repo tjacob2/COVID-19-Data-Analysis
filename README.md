@@ -16,7 +16,7 @@
 
 ### Project Overview
 
-COVID-19 is a highly infectous respiratory illness caused by the novel coronavirus. The first emerged from a laboratory in Wuhan, China, in December 2019 and has since rapidly spread worldwide. The symptoms of COVID-19 include fever, coughing, difficulty breathing, headaches, and fatigue. Therefore, it is best to socially distance,follow health guidlines, and most importantly taking care of ones self by drinking lots of fluids and plenty of rest.
+COVID-19 is a highly infectous respiratory illness caused by the novel coronavirus. The first occurance of the disease emerged from a laboratory in Wuhan, China, in December 2019 and has since rapidly spread worldwide. The symptoms of COVID-19 include fever, coughing, difficulty breathing, headaches, and fatigue. Therefore, it is best to socially distance,follow health guidlines, and most importantly taking care of ones self by drinking lots of fluids and plenty of rest.
 This data analysis projects aims to provide insight into the COVID-19 deaths for each country from the time period,January 2020 to April 2021.
 By analyzing the various aspects of the data, we are can identity the number of people infected during the given time perid to further understand the gravity and impact the pandemic had on the world.
 
